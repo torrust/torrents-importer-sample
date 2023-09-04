@@ -1,0 +1,17 @@
+<rss xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:noNamespaceSchemaLocation="database.xsd" xmlns:torrentsimportersmaple="https://github.com/torrust/torrents-importer-sample" version="2.0">
+    <channel>
+        <title>Mandelbrot Set Collection</title>
+        <description>Torrents with Mandelbrot Set Images</description>
+        <link>https://github.com/torrust/torrents-importer-sample</link>
+        <item>
+            <title>MandelBrot Set 01</title>
+            <category>Fractal</category>
+            <infohash>0c90fbf036e28370c1ec773401bc7620146b1d48</infohash>
+            <guid>https://raw.githubusercontent.com/torrust/torrents-importer-sample/main/tests/fixtures/torrents/mandelbrot_set_01.torrent</guid>
+            <link>https://raw.githubusercontent.com/torrust/torrents-importer-sample/main/tests/fixtures/torrents/mandelbrot_set_01.torrent</link>
+            <description></description>
+            <size>17130410419</size>
+        </item>
+    </channel>
+</rss>
